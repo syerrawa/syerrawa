@@ -1,4 +1,4 @@
-# Hi, I'm Sachin Yerrawar 👋
+x`# Hi, I'm Sachin Yerrawar 👋
 
 ### Full Stack Developer @ Cisco | MIDS Candidate @ UC Berkeley
 
@@ -24,7 +24,7 @@ I am currently specializing in **Applied Machine Learning**, focusing on turning
 ## 🛠 Tech Stack
 
 ### Software Engineering
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Data Science & ML
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6C5C?style=for-the-badge&logo=n8n&logoColor=white)
