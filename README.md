@@ -14,9 +14,10 @@ I am currently specializing in **Applied Machine Learning**, focusing on turning
     * Statistics for Data Science
     * Research Design and Applications
 
-## ☁️ Cloud & Infrastructure
+## 📜 Certifications & Cloud Expertise
 * **AWS Certified Solutions Architect – Associate**
-* Experienced in designing highly available, cost-effective, and scalable cloud systems.
+* **AWS Certified AI Practitioner**
+* **Google Cloud Certified Cloud Digital Leader**
 
 ---
 
