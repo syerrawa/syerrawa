@@ -1,4 +1,4 @@
-`# Hi, I'm Sachin Yerrawar 👋
+## Hi, I'm Sachin Yerrawar 👋
 
 ### Full Stack Developer @ Cisco | MIDS Candidate @ UC Berkeley
 
