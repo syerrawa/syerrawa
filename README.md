@@ -14,10 +14,6 @@ I am currently specializing in **Applied Machine Learning**, focusing on turning
     * Statistics for Data Science
     * Research Design and Applications
 
-
-
-[Image of machine learning model development lifecycle]
-
 ## ☁️ Cloud & Infrastructure
 * **AWS Certified Solutions Architect – Associate**
 * Experienced in designing highly available, cost-effective, and scalable cloud systems.
