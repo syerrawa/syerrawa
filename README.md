@@ -18,10 +18,16 @@ I am currently specializing in **Applied Machine Learning**, focusing on turning
 
 [Image of machine learning model development lifecycle]
 
+## ☁️ Cloud & Infrastructure
+* **AWS Certified Solutions Architect – Associate**
+* Experienced in designing highly available, cost-effective, and scalable cloud systems.
 
 ---
 
 ## 🛠 Tech Stack
+
+### Cloud & Automation
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6C5C?style=for-the-badge&logo=n8n&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Software Engineering
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
