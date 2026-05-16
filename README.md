@@ -9,10 +9,12 @@ I am a Software Engineering Technical Leader with over **15 years of industry ex
 ## 🎓 The Berkeley MIDS Journey
 I am currently specializing in **Applied Machine Learning**, focusing on turning raw data into actionable insights through rigorous research and modeling.
 
-* **Current Coursework:** Applied Machine Learning
-* **Completed Foundations:** * Python for Data Science
-    * Statistics for Data Science
+* **Current Coursework:** Machine Learning Systems Engineering
+* **Completed Foundations:**
+    * Python for Data Science
     * Research Design and Applications
+    * Statistics for Data Science
+    * Applied Machine Learning
 
 ## 📜 Certifications & Cloud Expertise
 * **AWS Certified Solutions Architect – Associate**
